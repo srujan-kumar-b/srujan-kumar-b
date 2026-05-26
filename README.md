@@ -7,7 +7,7 @@ I'm a passionate developer always eager to learn new technologies and build awes
 
 ## 🌐 Portfolio
 Feel free to check out my portfolio for more of my work, skills, and achievements:  
-[Portfolio Website](https://srujankumarb.vercel.app/)
+[Portfolio Website](https://srujan-kumar-b.github.io/)
 
 ## 📝 Featured Project
 Explore my latest website project:  
