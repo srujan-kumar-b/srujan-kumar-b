@@ -14,8 +14,8 @@ Explore my latest website project:
 [TypewithSrujan](https://srujan-kumar-b.github.io/TypewithSrujan/)
 
 ## 📫 How to Reach Me
-- Email: srujankumarb@gmail.com
-- LinkedIn: [Srujan Kumar B on LinkedIn](https://www.linkedin.com/in/srujankumarb/)
+- Email: srujankumarb@gmail.com , dellputtur@gmail.com
+- LinkedIn: [Srujan Kumar B on LinkedIn](https://www.linkedin.com/in/srujan-kumar98)
 
 ---
 Thanks for visiting my profile!
