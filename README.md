@@ -8,7 +8,7 @@
   <a href="https://srujan-kumar-b.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%234ea94b?style=flat&logo=firefox-browser&logoColor=white" alt="Portfolio Badge" />
   </a>
-  <a href="https://www.linkedin.com/in/srujankumarb/" target="_blank">
+  <a href="https://linkedin.com/in/srujan-kumar98" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
 </p>
