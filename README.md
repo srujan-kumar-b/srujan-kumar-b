@@ -41,8 +41,8 @@
 
 ## 📫 Contact Me
 
-[![Email Badge](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:srujankumarb@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srujankumarb/)
+[![Email Badge](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:srujankumarb98@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srujan-kumar98/)
 
 ---
 
