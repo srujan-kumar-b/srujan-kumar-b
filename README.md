@@ -60,8 +60,8 @@ I build things for the web — from pixel-perfect frontends to robust backends. 
 | Project | Description | Link |
 |--------|-------------|------|
 | ⌨️ **TypewithSrujan** | Typing speed test — challenge your WPM live | [Try it →](https://srujan-kumar-b.github.io/TypewithSrujan/) |
-| 📝 **ApplywithSrujan** | Job application portal for streamlined hiring | [View →](https://srujan-kumar-b.github.io/ApplywithSrujan/) |
-| 🧸 **ka21toys** | A toy store with a clean, browsable UI | [Explore →](https://srujan-kumar-b.github.io/ka21toys/) |
+| 📝 **ApplywithSrujan** | Govt Scheme application portal | [View →](https://srujan-kumar-b.github.io/ApplywithSrujan/) |
+| 🧸 **KA21Toys** | A toy store with a clean, browsable UI | [Explore →](https://srujan-kumar-b.github.io/ka21toys/) |
 
 ---
 
