@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Name -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Srujan%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Learner&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Srujan%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlign=50&fontAlignY=55" width="100%"/>
 
 <!-- Social Badges -->
 <a href="https://srujan-kumar-b.github.io" target="_blank">
@@ -50,7 +50,7 @@ I build things for the web — from pixel-perfect frontends to robust backends. 
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite3](https://img.shields.io/badge/SQLite3-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
@@ -60,8 +60,8 @@ I build things for the web — from pixel-perfect frontends to robust backends. 
 | Project | Description | Link |
 |--------|-------------|------|
 | ⌨️ **TypewithSrujan** | Typing speed test — challenge your WPM live | [Try it →](https://srujan-kumar-b.github.io/TypewithSrujan/) |
-| 📝 **ApplywithSrujan** | Govt Scheme application portal | [View →](https://srujan-kumar-b.github.io/ApplywithSrujan/) |
-| 🧸 **KA21Toys** | A toy store with a clean, browsable UI | [Explore →](https://srujan-kumar-b.github.io/ka21toys/) |
+| 📝 **ApplywithSrujan** | Job application portal for streamlined hiring | [View →](https://srujan-kumar-b.github.io/ApplywithSrujan/) |
+| 🧸 **ka21toys** | A toy store with a clean, browsable UI | [Explore →](https://srujan-kumar-b.github.io/ka21toys/) |
 
 ---
 
