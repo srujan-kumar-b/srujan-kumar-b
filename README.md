@@ -31,10 +31,21 @@
 
 ---
 
-## 📝 Featured Project
+## 📝 Featured Projects
 
+### 1. TypewithSrujan
 <a href="https://srujan-kumar-b.github.io/TypewithSrujan/" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1200&color=4EAA4B&center=true&vCenter=true&width=420&lines=TypewithSrujan+%F0%9F%91%89+Click+to+Try+Now!" alt="TypewithSrujan demo badge" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1200&color=4EAA4B&center=true&vCenter=true&width=420&lines=TypewithSrujan+%F0%9F%91%89+Click+to+Try+Now!" alt="TypewithSrujan" />
+</a>
+
+### 2. ApplywithSrujan
+<a href="https://srujan-kumar-b.github.io/ApplywithSrujan/" target="_blank">
+  <img src="https://img.shields.io/badge/ApplywithSrujan-Visit%20Project-blue?style=for-the-badge&logo=github-pages&logoColor=white" alt="ApplywithSrujan" />
+</a>
+
+### 3. ka21toys
+<a href="https://srujan-kumar-b.github.io/ka21toys/" target="_blank">
+  <img src="https://img.shields.io/badge/ka21toys-Visit%20Project-purple?style=for-the-badge&logo=github-pages&logoColor=white" alt="ka21toys" />
 </a>
 
 ---
