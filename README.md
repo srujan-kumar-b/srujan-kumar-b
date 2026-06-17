@@ -4,13 +4,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Srujan%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlign=50&fontAlignY=50" width="100%"/>
 
 <!-- Social Badges -->
-<a href="https://srujan-kumar-b.github.io" target="_blank">
+<a href="https://srujan-kumar-b.github.io">
   <img src="https://img.shields.io/badge/🌐%20Portfolio-0f0f0f?style=for-the-badge&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/srujan-kumar98" target="_blank">
+<a href="https://linkedin.com/in/srujan-kumar98">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:srujankumarb98@gmail.com" target="_blank">
+<a href="mailto:srujankumarb98@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -59,9 +59,9 @@ I build things for the web — from pixel-perfect frontends to robust backends. 
 
 | Project | Description | Link |
 |--------|-------------|------|
-| ⌨️ **TypewithSrujan** | Typing speed test — challenge your WPM live | <a href="https://srujan-kumar-b.github.io/TypewithSrujan/" target="_blank">Try it →</a> |
-| 📝 **ApplywithSrujan** | Job application portal for streamlined hiring | <a href="https://srujan-kumar-b.github.io/ApplywithSrujan/" target="_blank">View →</a> |
-| 🧸 **ka21toys** | A toy store with a clean, browsable UI | <a href="https://srujan-kumar-b.github.io/ka21toys/" target="_blank">Explore →</a> |
+| ⌨️ **TypewithSrujan** | Typing speed test — challenge your WPM live | <a href="https://srujan-kumar-b.github.io/TypewithSrujan/">Try it →</a> |
+| 📝 **ApplywithSrujan** | Job application portal for streamlined hiring | <a href="https://srujan-kumar-b.github.io/ApplywithSrujan/">View →</a> |
+| 🧸 **ka21toys** | A toy store with a clean, browsable UI | <a href="https://srujan-kumar-b.github.io/KA21TOYS/">Explore →</a> |
 
 ---
 
@@ -84,9 +84,8 @@ I build things for the web — from pixel-perfect frontends to robust backends. 
 
 Got a project in mind, want to collaborate, or just want to say hi?
 
-**→ Drop me a line at** <a href="mailto:srujankumarb98@gmail.com" target="_blank">srujankumarb98@gmail.com</a>
-
-**or connect on** <a href="https://linkedin.com/in/srujan-kumar98" target="_blank">LinkedIn</a>
+**→ Drop me a line at** <a href="mailto:srujankumarb98@gmail.com">srujankumarb98@gmail.com</a>  
+**or connect on** <a href="https://linkedin.com/in/srujan-kumar98">LinkedIn</a>
 
 <div align="center">
 
