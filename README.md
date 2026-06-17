@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Name -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Srujan%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlign=50&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Srujan%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlign=50&fontAlignY=55&desc=Full%20Stack%20Developer&descAlign=50&descAlignY=71" width="100%"/>
 
 <!-- Social Badges -->
 <a href="https://srujan-kumar-b.github.io" target="_blank">
@@ -59,9 +59,9 @@ I build things for the web — from pixel-perfect frontends to robust backends. 
 
 | Project | Description | Link |
 |--------|-------------|------|
-| ⌨️ **TypewithSrujan** | Typing speed test — challenge your WPM live | [Try it →](https://srujan-kumar-b.github.io/TypewithSrujan/) |
-| 📝 **ApplywithSrujan** | Job application portal for streamlined hiring | [View →](https://srujan-kumar-b.github.io/ApplywithSrujan/) |
-| 🧸 **ka21toys** | A toy store with a clean, browsable UI | [Explore →](https://srujan-kumar-b.github.io/ka21toys/) |
+| ⌨️ **TypewithSrujan** | Typing speed test — challenge your WPM live | [Try it →](https://srujan-kumar-b.github.io/TypewithSrujan/){:target="_blank"} |
+| 📝 **ApplywithSrujan** | Job application portal for streamlined hiring | [View →](https://srujan-kumar-b.github.io/ApplywithSrujan/){:target="_blank"} |
+| 🧸 **ka21toys** | A toy store with a clean, browsable UI | [Explore →](https://srujan-kumar-b.github.io/ka21toys/){:target="_blank"} |
 
 ---
 
@@ -84,8 +84,8 @@ I build things for the web — from pixel-perfect frontends to robust backends. 
 
 Got a project in mind, want to collaborate, or just want to say hi?
 
-**→ Drop me a line at [srujankumarb98@gmail.com](mailto:srujankumarb98@gmail.com)**
-or connect on **[LinkedIn](https://linkedin.com/in/srujan-kumar98)**
+**→ Drop me a line at [srujankumarb98@gmail.com](mailto:srujankumarb98@gmail.com){:target="_blank"}**
+or connect on **[LinkedIn](https://linkedin.com/in/srujan-kumar98){:target="_blank"}**
 
 <div align="center">
 
