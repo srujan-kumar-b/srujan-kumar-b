@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=4EAA4B&center=true&vCenter=true&width=500&height=60&lines=Hi+there%2C+I'm+Srujan+Kumar+%F0%9F%91%8B;Full+Stack+Developer;Web+Enthusiast;Open+Source+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=4EAA4B&center=true&vCenter=true&width=500&height=60&lines=Hi+there%2C+I'm+Srujan+Kumar" alt="Typing animation" />
 </h1>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 ## 🚀 About Me
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2000&pause=500&color=4EAA4B&center=true&width=500&lines=👨‍💻+Passionate+Full+Stack+Developer;🌱+Always+experimenting+%26+learning;✨+Cutting-edge+web+tech+enthusiast;🎨+UI%2FUX+%26+Open+Source+lover" alt="About me" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2000&pause=500&color=4EAA4B&center=true&width=500&lines=👨‍💻+Passionate+Full+Stack+Developer;🌱+Always+Learning+New+Technologies;🚀+Building+Awesome+Projects" alt="About me typing animation" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbf6ad80-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
 
@@ -30,7 +30,7 @@
 
 <div align="center">
   <a href="https://srujan-kumar-b.github.io/" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3000&pause=500&color=FF6B9D&center=true&width=450&lines=✨+Visit+my+Portfolio+✨" alt="portfolio button"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3000&pause=500&color=FF6B9D&center=true&width=450&lines=✨+Visit+my+Portfolio+✨" alt="portfolio button" />
   </a>
 </div>
 
@@ -45,7 +45,7 @@
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&duration=2000&pause=500&color=4EAA4B&center=true&width=250&lines=1.+TypewithSrujan" alt="project1" />
       </h3>
       <a href="https://srujan-kumar-b.github.io/TypewithSrujan/" target="_blank">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1200&color=4EAA4B&center=true&vCenter=true&width=350&lines=TypewithSrujan+%F0%9F%91%89+Click+to+Try!" alt="TypewithSrujan" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1200&color=4EAA4B&center=true&vCenter=true&width=350&lines=TypewithSrujan+%F0%9F%91%89+Click+to+Try!" alt="TypewithSrujan project" />
       </a>
       <p>⌨️ Typing Speed Test</p>
     </td>
@@ -75,7 +75,7 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=2000&pause=500&color=FF6B9D&center=true&width=400&lines=Frontend:+HTML%2C+CSS%2C+JavaScript%2C+React;Backend:+Node.js%2C+Express;Database:+MongoDB%2C+MySQL" alt="tech stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=2000&pause=500&color=FF6B9D&center=true&width=400&lines=Frontend:+HTML%2C+CSS%2C+JavaScript%2C+React;Backend:+Node.js%2C+Express;Databases:+MongoDB%2C+MySQL" alt="Tech stack typing animation" />
 </p>
 
 <div align="center">
@@ -131,5 +131,5 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=3000&pause=1000&color=FF6B9D&center=true&width=500&lines=Thanks+for+visiting!+⭐;Don't+forget+to+star!+%F0%9F%8C%9F;Have+a+great+day!+%F0%9F%98%8A" alt="ending" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=3000&pause=1000&color=FF6B9D&center=true&width=500&lines=Thanks+for+visiting!+⭐;Don't+forget+to+star!+%F0%9F%A4%A9" alt="Closing message" />
 </p>
